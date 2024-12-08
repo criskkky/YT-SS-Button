@@ -1,3 +1,5 @@
+[![Install Button](https://img.shields.io/badge/UserScript-Click%20to%20Install-darkgreen?style=for-the-badge&logo=Greasyfork)](https://greasyfork.org/en/scripts/519992-youtube-screenshot-button)
+
 # 📸 YouTube Screenshot Button
 
 This user script adds a button to the YouTube interface, allowing you to capture the current video frame as an image. After clicking the button, a PNG image of the current frame is downloaded automatically.
@@ -15,9 +17,9 @@ This user script adds a button to the YouTube interface, allowing you to capture
 
 ## 💻 Installation
 
-1. Install Tampermonkey or Greasemonkey on your browser.
-2. Click "Create a new script" and paste the provided code into the editor, or directly import the `.user.js` file.
-3. Save the script.
+1. Go to → https://greasyfork.org/en/scripts/519992-youtube-screenshot-button
+2. Click "Install this script"
+3. Done.
 
 ## 🚀 Usage
 
